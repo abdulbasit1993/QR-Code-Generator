@@ -1,0 +1,10 @@
+c:\users\abdul basit mehtab\documents\visual studio 2013\Projects\QRCodeDemo\QRCodeDemo\bin\Debug\QRCodeDemo.exe.config
+C:\Users\Abdul Basit Mehtab\documents\visual studio 2013\Projects\QRCodeDemo\QRCodeDemo\bin\Debug\QRCodeDemo.exe
+C:\Users\Abdul Basit Mehtab\documents\visual studio 2013\Projects\QRCodeDemo\QRCodeDemo\bin\Debug\QRCodeDemo.pdb
+C:\Users\Abdul Basit Mehtab\documents\visual studio 2013\Projects\QRCodeDemo\QRCodeDemo\bin\Debug\QRCoder.dll
+C:\Users\Abdul Basit Mehtab\documents\visual studio 2013\Projects\QRCodeDemo\QRCodeDemo\obj\Debug\QRCodeDemo.csprojResolveAssemblyReference.cache
+C:\Users\Abdul Basit Mehtab\documents\visual studio 2013\Projects\QRCodeDemo\QRCodeDemo\obj\Debug\QRCodeDemo.Form1.resources
+C:\Users\Abdul Basit Mehtab\documents\visual studio 2013\Projects\QRCodeDemo\QRCodeDemo\obj\Debug\QRCodeDemo.Properties.Resources.resources
+C:\Users\Abdul Basit Mehtab\documents\visual studio 2013\Projects\QRCodeDemo\QRCodeDemo\obj\Debug\QRCodeDemo.csproj.GenerateResource.Cache
+C:\Users\Abdul Basit Mehtab\documents\visual studio 2013\Projects\QRCodeDemo\QRCodeDemo\obj\Debug\QRCodeDemo.exe
+C:\Users\Abdul Basit Mehtab\documents\visual studio 2013\Projects\QRCodeDemo\QRCodeDemo\obj\Debug\QRCodeDemo.pdb
